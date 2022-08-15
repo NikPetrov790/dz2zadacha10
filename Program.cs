@@ -7,4 +7,3 @@ Console.WriteLine("Введите трехзначное число");
 int numbers = Convert.ToInt32(Console.ReadLine());
 string threeNumbers = Convert.ToString(numbers);
 Console.Write("Вторая цифра -  "+ threeNumbers[1]);
-git commit -m "first commit"
